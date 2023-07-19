@@ -16,7 +16,7 @@ const Footer = () => {
 
     return (
         <footer className="p-10 bg-base-300">
-            <div className="footer container py-4">
+            <div className="footer container py-4 lg:px-7 justify-between">
                 <div>
                     <div className="flex items-center mb-5">
                         <div className="w-10 h-10 rounded-full gradient-bg grid place-content-center">
