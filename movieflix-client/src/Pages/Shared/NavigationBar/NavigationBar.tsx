@@ -28,7 +28,7 @@ const NavigationBar = () => {
 
     <div>
 
-      <h1>sdaf</h1>
+
 
     </div>
 
